@@ -191,3 +191,10 @@ Built as a beginner AWS project to learn:
 - REST API design
 - Static website hosting on AWS
 
+---
+
+## Author
+
+**Akshay Devdhare**
+
+*Built as part of AWS Cloud learning — Serverless architecture using S3, Lambda, API Gateway, and RDS.*
