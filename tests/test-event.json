@@ -1,0 +1,5 @@
+{
+  "body": "{\"first_name\":\"Test\",\"last_name\":\"User\",
+  \"course\":\"AWS Cloud\",\"email\":\"test@test.com\",
+  \"mobile\":\"9999999999\"}"
+}
