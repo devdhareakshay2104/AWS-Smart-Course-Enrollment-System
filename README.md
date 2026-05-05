@@ -8,7 +8,7 @@ Students can browse courses and enroll — all data is stored in **Amazon RDS (M
 ## 🌐 Live Website
 
 Hosted on **Amazon S3** (Static Website Hosting)
-
+LINK : http://novaedge-website-123.s3-website.ap-south-1.amazonaws.com/
 ---
 
 ## 🏗️ Architecture
