@@ -33,6 +33,14 @@ Student (Browser)
 
 ---
 
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-05 235627" src="https://github.com/user-attachments/assets/b6fc261d-f0c3-487d-ae9f-256334866cc4" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-05 235641" src="https://github.com/user-attachments/assets/859d8e85-4f10-4afa-973b-7934bd77d331" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-05-05 235651" src="https://github.com/user-attachments/assets/c5e2d0ea-a59b-4136-87fe-9dfecbd63fed" />
+
+
 ## ☁️ AWS Services Used
 
 | Service | Purpose |
