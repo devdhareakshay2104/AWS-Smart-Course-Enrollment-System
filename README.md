@@ -1,17 +1,17 @@
-# 🚀 AWS Smart Course Enrollment System
+# 🚀 AWS Smart Course Enrollment System :
 
 A fully serverless course enrollment web application built on AWS.  
 Students can browse courses and enroll — all data is stored in **Amazon RDS (MySQL)** with a **JSON backup in S3**.
 
 ---
 
-## 🌐 Live Website
+## 🌐 Live Website :
 
 Hosted on **Amazon S3** (Static Website Hosting)
 LINK : http://novaedge-website-123.s3-website.ap-south-1.amazonaws.com/
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture :
 
 ```
 Student (Browser)
